@@ -14,6 +14,8 @@
 
 <!-- endhide -->
 
+<onlyfor saas="true" withBanner="true">
+
 ## 🌱 How to start a project?
 
 Do not clone any repository! Just follow instructions below:
@@ -24,8 +26,9 @@ Installing Kali Linux on a virtual machine is an excellent way to explore and us
 * Download VirtualBox from [Downloads](https://www.virtualbox.org/wiki/Downloads).
 * Download Kali Linux from Kali Linux [Downloads](https://www.kali.org/get-kali/#kali-platforms).
 
-## 📝 Instructions
+</onlyfor>
 
+## 📝 Instructions
 
 ### Step 1: Installing VirtualBox
 VirtualBox is a free and open-source virtualization tool that allows users to run multiple operating systems simultaneously on their computer.

@@ -1,7 +1,5 @@
-# Instalando Kali Linux en una máquina virtual
-
-
 <!-- hide -->
+# Instalando Kali Linux en una máquina virtual
 
 > By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/4GeeksAcademy/deploying-wordpress-debian/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
@@ -9,11 +7,6 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *These instructions are [available in english](https://github.com/breatheco-de/installing-kali-linux-on-virtual-machine/blob/main/README.md)*
-<!-- endhide -->
-
-
-<!-- hide -->
-
 
 ### Antes de empezar...
 
@@ -21,17 +14,20 @@
 
 <!-- endhide -->
 
+<onlyfor saas="true" withBanner="true">
+
 ## 🌱 ¿Cómo empezar este proyecto?
 
 ¡No clones este repositorio! solo sigue las intrucciones.
 
 Instalar Kali Linux en una máquina virtual es una excelente manera de explorar y utilizar esta poderosa herramienta de seguridad sin riesgo para tu sistema operativo principal. Este enfoque proporciona un entorno seguro y flexible que es ideal tanto para el aprendizaje como para aplicaciones profesionales. En esta práctica aprenderemos a instalar una.
 
-
 ### Requisitos
 
 * Descargar VirtualBox desde  [Downloads](https://www.virtualbox.org/wiki/Downloads).
 * Descargable desde Kali Linux [Downloads](https://www.kali.org/get-kali/#kali-platforms).
+
+</onlyfor>
 
 ## 📝 Instrucciones
 
