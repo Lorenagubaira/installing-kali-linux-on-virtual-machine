@@ -11,6 +11,7 @@
 	"preview": "https://github.com/breatheco-de/installing-kali-linux-on-virtual-machine/blob/main/assets/preview-kali.jpg?raw=true",
 	"repository": "https://github.com/breatheco-de/installing-kali-linux-on-virtual-machine",
 	"duration": 2,
+	"projectType": "project",
 	"difficulty": "beginner",
 	"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
 	"technologies": ["linux", "cybersecurity", "ciberseguridad"],
