@@ -14,8 +14,6 @@
 
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 How to start a project?
 
 Do not clone any repository! Just follow instructions below:
@@ -25,8 +23,6 @@ Installing Kali Linux on a virtual machine is an excellent way to explore and us
 ### Requirements
 * Download VirtualBox from [Downloads](https://www.virtualbox.org/wiki/Downloads).
 * Download Kali Linux from Kali Linux [Downloads](https://www.kali.org/get-kali/#kali-platforms).
-
-</onlyfor>
 
 ## 📝 Instructions
 
