@@ -14,8 +14,6 @@
 
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 ¿Cómo empezar este proyecto?
 
 ¡No clones este repositorio! solo sigue las intrucciones.
@@ -26,8 +24,6 @@ Instalar Kali Linux en una máquina virtual es una excelente manera de explorar 
 
 * Descargar VirtualBox desde  [Downloads](https://www.virtualbox.org/wiki/Downloads).
 * Descargable desde Kali Linux [Downloads](https://www.kali.org/get-kali/#kali-platforms).
-
-</onlyfor>
 
 ## 📝 Instrucciones
 
